@@ -15,3 +15,6 @@ Used:
 ## Video
 https://user-images.githubusercontent.com/94129421/153176965-c56c9081-883c-46aa-8cc3-84989164c0f2.mp4
 
+# Debug banner
+To remove debug banner in Flutter, simply need to use MaterialApp() widget and call the 'debugShowCheckedModeBanner' and set this property to false. 
+
